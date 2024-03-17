@@ -1,2 +1,2 @@
 # python_bootcamp
-python snippets for 'Python for scientific computing' course
+code snippets for 'Python for scientific computing' course
