@@ -1,2 +1,2 @@
 # python_bootcamp
-Code snippets for 'Python for scientific computing' course. Reach out to me to enroll for mentor-facilitated course and/or corporate training collabs!
+Sample code snippets for 'Python for scientific computing' course. Please feel free to reach out to me to enroll for mentor-facilitated course and/or corporate training collabs!
